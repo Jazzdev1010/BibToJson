@@ -34,26 +34,15 @@
     <ul>
         {% for entry in entries if entry.ENTRYTYPE == 'article' %}
             <li class="publication">
-                <span class="author">{{ entry.author }}</span>
-                {% if entry.title %}
-                    , <span class="title">"<a href="{{ entry.url if entry.url }}" target="_blank">{{ entry.title }}</a>"</span>
-                {% endif %}
-                {% if entry.journal %}
-                    , <span class="journal">{{ entry.journal }}</span>
-                {% endif %}
-                {% if entry.volume %}
-                    , <span class="volume">{{ entry.volume }}</span>
-                {% endif %}
-                {% if entry.number %}
-                    , <span class="number">no. {{ entry.number }}</span>
-                {% endif %}
-                {% if entry.pages %}
-                    , <span class="pages">{{ entry.pages }}</span>
-                {% endif %}
-                {% if entry.year %}
-                    , <span class="year">{{ entry.year }}</span>
-                {% endif %}
-                .
+                <span class="author">{{ entry.author }}.</span>
+                <span class="title">
+                    <a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a>
+                </span>
+                <span class="journal">{{ entry.journal }}</span>,
+                <span class="volume">{{ entry.volume }}</span>,
+                <span class="number">no. {{ entry.number }}</span>,
+                <span class="pages">{{ entry.pages }}</span>,
+                <span class="year">{{ entry.year }}</span>.
             </li>
         {% endfor %}
     </ul>
@@ -62,25 +51,15 @@
     <ul>
         {% for entry in entries if entry.ENTRYTYPE == 'conference' or entry.ENTRYTYPE == 'inproceedings' %}
             <li class="publication">
-                <span class="author">{{ entry.author }}</span>
-                {% if entry.title %}
-                    , <span class="title">"<a href="{{ entry.url if entry.url }}" target="_blank">{{ entry.title }}</a>"</span>
-                {% endif %}
-                {% if entry.booktitle %}
-                    , <span class="booktitle">{{ entry.booktitle }}</span>
-                {% endif %}
+                <span class="author">{{ entry.author }}.</span>
+                <span class="title">
+                    <a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a></span>,
+                <span class="booktitle">{{ entry.booktitle }}</span>
                 {% if entry.publisher %}
-                    {% if entry.pages %}
-                        , <span class="pages">{{ entry.pages }}</span>
-                    {% endif %}
-                    {% if entry.organization %}
-                        , <span class="organization">{{ entry.organization }}</span>
-                    {% endif %}
+                    <span class="pages">{{ entry.pages }}</span>,
+                    <span class="organization">{{ entry.organization }}</span>
                 {% endif %}
-                {% if entry.year %}
-                    , <span class="year">{{ entry.year }}</span>
-                {% endif %}
-                .
+                <span class="year">{{ entry.year }}</span>.
             </li>
         {% endfor %}
     </ul>

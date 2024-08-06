@@ -3,7 +3,6 @@
     "publisher": "Elsevier",
     "year": "2024",
     "pages": "1--11",
-    "number": "",
     "volume": "91",
     "journal": "Alexandria Engineering Journal",
     "author": "Joshi, Neeraj and Budhiraja, Ishan and Garg, Deepak and Garg, Sahil and Choi, Bong Jun and Alrashoud, Mubarak",
@@ -200,18 +199,6 @@
     "ID": "zhao2020spatially"
   },
   {
-    "publisher": "IEEE",
-    "year": "2019",
-    "pages": "349--362",
-    "number": "1",
-    "volume": "7",
-    "journal": "IEEE Internet of Things journal",
-    "author": "Baek, Duin and Chen, Jing and Choi, Bong Jun",
-    "title": "Small profits and quick returns: An incentive mechanism design for crowdsourcing under continuous platform competition",
-    "ENTRYTYPE": "article",
-    "ID": "baek2019small"
-  },
-  {
     "publisher": "MDPI",
     "year": "2020",
     "pages": "407",
@@ -229,7 +216,7 @@
     "pages": "5805--5825",
     "number": "",
     "volume": "13",
-    "journal": "KSII Transactions on Internet \\& Information Systems",
+    "journal": "KSII Transactions on Internet & Information Systems",
     "author": "Choi, Bong Jun and others",
     "title": "Weighted Adaptive Opportunistic Scheduling Framework for Smartphone Sensor Data Collection in IoT",
     "ENTRYTYPE": "article",
@@ -258,6 +245,18 @@
     "title": "A robust channel estimation scheme for 5G massive MIMO systems",
     "ENTRYTYPE": "article",
     "ID": "khan2019robust"
+  },
+  {
+    "publisher": "IEEE",
+    "year": "2019",
+    "pages": "349--362",
+    "number": "1",
+    "volume": "7",
+    "journal": "IEEE Internet of Things journal",
+    "author": "Baek, Duin and Chen, Jing and Choi, Bong Jun",
+    "title": "Small profits and quick returns: An incentive mechanism design for crowdsourcing under continuous platform competition",
+    "ENTRYTYPE": "article",
+    "ID": "baek2019small"
   },
   {
     "publisher": "MDPI",

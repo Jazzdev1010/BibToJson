@@ -1,0 +1,31 @@
+{
+  "type": "article",
+  "id": "munawar2023drone",
+  "citekey": "munawar2023drone",
+  "collection": "type1_iot",
+  "title": "Drone-as-a-Service (DaaS) for COVID-19 self-testing kits delivery in smart healthcare setups: a technological perspective",
+  "year": "2023",
+  "author": [
+    {
+      "name": "Munawar, Hafiz Suliman"
+    },
+    {
+      "name": "Akram, Junaid"
+    },
+    {
+      "name": "Khan, Sara Imran"
+    },
+    {
+      "name": "Ullah, Fahim"
+    },
+    {
+      "name": "Choi, Bong Jun"
+    }
+  ],
+  "journal": {
+    "name": "ICT Express",
+    "volume": "9",
+    "number": "4",
+    "pages": "748--753"
+  }
+}

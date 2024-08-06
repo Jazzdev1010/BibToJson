@@ -3,13 +3,14 @@
     "publisher": "Elsevier",
     "year": "2024",
     "pages": "1--11",
-    "number": "",
     "volume": "91",
     "journal": "Alexandria Engineering Journal",
     "author": "Joshi, Neeraj and Budhiraja, Ishan and Garg, Deepak and Garg, Sahil and Choi, Bong Jun and Alrashoud, Mubarak",
     "title": "Deep reinforcement learning based rate enhancement scheme for RIS assisted mobile users underlaying UAV",
     "ENTRYTYPE": "article",
-    "ID": "joshi2024deep"
+    "ID": "joshi2024deep",
+    "topic": "type1",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1110016824000498"
   },
   {
     "publisher": "Elsevier",
@@ -21,7 +22,9 @@
     "author": "Budhiraja, Ishan and Garg, Deepak and Singh, Ramendra and Garg, Sahil and Choi, Bong Jun and Alrashoud, Mubarak",
     "title": "SWIPT and uplink NOMA approach for self energy recycling in full-duplex enabled D2D network",
     "ENTRYTYPE": "article",
-    "ID": "budhiraja2024swipt"
+    "ID": "budhiraja2024swipt",
+    "topic": "type1",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1110016824000140"
   },
   {
     "publisher": "Elsevier",
@@ -33,7 +36,9 @@
     "author": "Rathee, Geetanjali and Kumar, Akshay and Garg, Sahil and Choi, Bong Jun and Hassan, Mohammad Mehedi",
     "title": "ART: Active recognition trust mechanism for Augmented Intelligence of Things (AIoT) in smart enterprise systems",
     "ENTRYTYPE": "article",
-    "ID": "rathee2023art"
+    "ID": "rathee2023art",
+    "topic": "type1",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1110016823007287"
   },
   {
     "publisher": "Elsevier",
@@ -45,7 +50,9 @@
     "author": "Munawar, Hafiz Suliman and Akram, Junaid and Khan, Sara Imran and Ullah, Fahim and Choi, Bong Jun",
     "title": "Drone-as-a-Service (DaaS) for COVID-19 self-testing kits delivery in smart healthcare setups: a technological perspective",
     "ENTRYTYPE": "article",
-    "ID": "munawar2023drone"
+    "ID": "munawar2023drone",
+    "topic": "type1",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405959522001412"
   },
   {
     "publisher": "Tech Science Press",
@@ -57,7 +64,9 @@
     "author": "Albogamy, Fahad R and Aiyashi, MA and Hashim, Fazirul Hisyam and Khan, Imran and Choi, Bong Jun",
     "title": "Optimal Resource Allocation for NOMA Wireless Networks.",
     "ENTRYTYPE": "article",
-    "ID": "albogamy2023optimal"
+    "ID": "albogamy2023optimal",
+    "topic": "type1",
+    "url": "https://cdn.techscience.cn/ueditor/files/cmc/TSP_CMC-74-2/TSP_CMC_31673/TSP_CMC_31673.pdf"
   },
   {
     "publisher": "Tech Science Press",
@@ -69,7 +78,9 @@
     "author": "Alsharif, Mohammed H and Hossain, Md Sanwar and Jahid, Abu and Khan, Muhammad Asghar and Choi, Bong Jun and Mostafa, Samih M",
     "title": "Milestones of Wireless Communication Networks and Technology Prospect of Next Generation (6G)",
     "ENTRYTYPE": "article",
-    "ID": "alsharif2022milestones"
+    "ID": "alsharif2022milestones",
+    "topic": "type1",
+    "url": "http://www.techscience.com/cmc/v71n3/46505"
   },
   {
     "publisher": "MDPI",
@@ -81,7 +92,9 @@
     "author": "Kumar, Arun and Sharma, Sharad and Singh, Aman and Alwadain, Ayed and Choi, Bong-Jun and Manual-Brenosa, Jose and Ortega-Mansilla, Arturo and Goyal, Nitin",
     "title": "Revolutionary strategies analysis and proposed system for future infrastructure in Internet of Things",
     "ENTRYTYPE": "article",
-    "ID": "kumar2021revolutionary"
+    "ID": "kumar2021revolutionary",
+    "topic": "type1",
+    "url": "https://www.mdpi.com/2071-1050/14/1/71"
   },
   {
     "publisher": "IEEE",
@@ -93,7 +106,9 @@
     "author": "He, Ying and Khan, Habib Ullah and Zhang, Kai and Wang, Wei and Choi, Bong Jun and Aly, Ayman A and Felemban, Bassem F and Sani, Nor Samsiah and Tarbosh, Qazwan A and Aydogdu, Omer",
     "title": "D2D-V2X-SDN: Taxonomy and architecture towards 5G mobile communication system",
     "ENTRYTYPE": "article",
-    "ID": "he2021d2d"
+    "ID": "he2021d2d",
+    "topic": "type1",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9610025"
   },
   {
     "publisher": "MDPI",
@@ -105,7 +120,9 @@
     "author": "Babbar, Himanshi and Rani, Shalli and Singh, Aman and Abd-Elnaby, Mohammed and Choi, Bong Jun",
     "title": "Cloud based smart city services for industrial internet of things in software-defined networking",
     "ENTRYTYPE": "article",
-    "ID": "babbar2021cloud"
+    "ID": "babbar2021cloud",
+    "topic": "type1",
+    "url": "https://www.mdpi.com/2071-1050/13/16/8910"
   },
   {
     "publisher": "Tech Science Press",
@@ -117,7 +134,9 @@
     "author": "Al-Wesabi, Fahd N and Khan, Imran and Alamgeer, Mohammad and Al-Sharafi, Ali M and Choi, Bong Jun and Aldosary, Abdallah",
     "title": "A joint algorithm for resource allocation in d2d 5g wireless networks",
     "ENTRYTYPE": "article",
-    "ID": "al2021joint"
+    "ID": "al2021joint",
+    "topic": "type1",
+    "url": "https://d1wqtxts1xzle7.cloudfront.net/85183143/AlamPub_19_ePaper-libre.pdf?1651251053=&response-content-disposition=inline%3B+filename%3DA_Joint_Algorithm_for_Resource_Allocatio.pdf&Expires=1722527720&Signature=CgBQzkNwTuTTjKefqUphUQsG2SNYt5d9k~skX9sPZu4uTjYx84kjhToY8ypyaVcpit-C5~qqQoMcuoTiWr4D-qOzNTxqFRPWYm5LrXDWnMQv3-tP5yRl-Tup727NI3Sy2IC1CCht-g~S6ilhnuFVMsEFmlz5UjA1WIpZCf3MM0sEmRiZ-GQHjhaXP-VtqYKfIhH1sgl-sCeKA~lFd08HFjO6I8MHpgO70VwqNJ1UXYxzbScSAP1LlabKnWrLm799v8HqmJ0Bc8Rpl4vzuywOriVbBreR2wUVXe91UvLXH1dExs-m~uLZTSIl4tlXzE6ylJ-3BuAfmOz-syAmDgdKIg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"
   },
   {
     "publisher": "IEEE",
@@ -128,7 +147,9 @@
     "author": "Alsharif, Mohammed H and Kannadasan, Raju and Jahid, Abu and Albreem, Mahmoud A and Nebhen, Jamel and Choi, Bong Jun",
     "title": "Long-term techno-economic analysis of sustainable and zero grid cellular base station",
     "ENTRYTYPE": "article",
-    "ID": "alsharif2021long"
+    "ID": "alsharif2021long",
+    "topic": "type1",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9395428"
   },
   {
     "publisher": "IEEE",
@@ -140,7 +161,9 @@
     "author": "Rathee, Geetanjali and Garg, Sahil and Kaddoum, Georges and Choi, Bong Jun",
     "title": "Decision-making model for securing IoT devices in smart industries",
     "ENTRYTYPE": "article",
-    "ID": "rathee2020decision"
+    "ID": "rathee2020decision",
+    "topic": "type1",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9127136?casa_token=gW_QbZCs0QEAAAAA:t7Cd60O0oEgqcrQR8w7nybKPFl4G5YlDi4v7YEEbtLiRQ4-2j9ml0HkpXl1n2QbgI-TZ5L_6H78"
   },
   {
     "publisher": "Tech Science Press",
@@ -149,7 +172,9 @@
     "author": "Fakhri, Ahmed Bashar and Mohammed, Saleem Latteef and Khan, Imran and Sadiq, Ali Safaa and Alkazemi, Basem and Pillai, Prashant and Choi, Bong Jun",
     "title": "Industry 4.0: architecture and equipment revolution",
     "ENTRYTYPE": "article",
-    "ID": "fakhri2020industry"
+    "ID": "fakhri2020industry",
+    "topic": "type1",
+    "url": "https://wlv.openrepository.com/bitstream/handle/2436/623464/Industry%204.0_%20Architecture%20and%20Equipment%20Revolution.pdf?sequence=6&isAllowed=y"
   },
   {
     "publisher": "IEEE",
@@ -161,7 +186,9 @@
     "author": "Rathee, Geetanjali and Garg, Sahil and Kaddoum, Georges and Choi, Bong Jun and Hossain, M Shamim",
     "title": "Trusted orchestration for smart decision-making in internet of vehicles",
     "ENTRYTYPE": "article",
-    "ID": "rathee2020trusted"
+    "ID": "rathee2020trusted",
+    "topic": "type1",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9178784"
   },
   {
     "publisher": "IEEE",
@@ -173,7 +200,9 @@
     "author": "Rathee, Geetanjali and Jaglan, Naveen and Garg, Sahil and Choi, Bong Jun and Choo, Kim-Kwang Raymond",
     "title": "A secure spectrum handoff mechanism in cognitive radio networks",
     "ENTRYTYPE": "article",
-    "ID": "rathee2020secure"
+    "ID": "rathee2020secure",
+    "topic": "type1",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8984231?casa_token=fjTdKvHU5lgAAAAA:W9vvFUeKQ8Q5iReIIJoNu8DNRReRL4Mnxn5bujERzeZ6t6MOq724sNPk_rzCLta3VmngUGJk9Js"
   },
   {
     "publisher": "MDPI",
@@ -185,7 +214,9 @@
     "author": "Alsharfa, Raya Majid and Mohammed, Saleem Latteef and Gharghan, Sadik Kamel and Khan, Imran and Choi, Bong Jun",
     "title": "Cellular-D2D resource allocation algorithm based on user fairness",
     "ENTRYTYPE": "article",
-    "ID": "alsharfa2020cellular"
+    "ID": "alsharfa2020cellular",
+    "topic": "type1",
+    "url": "https://www.mdpi.com/2079-9292/9/3/386"
   },
   {
     "publisher": "IEEE",
@@ -197,19 +228,9 @@
     "author": "Zhao, Shancheng and Wen, Jinming and Mumtaz, Shahid and Garg, Sahil and Choi, Bong Jun",
     "title": "Spatially coupled codes via partial and recursive superposition for industrial IoT with high trustworthiness",
     "ENTRYTYPE": "article",
-    "ID": "zhao2020spatially"
-  },
-  {
-    "publisher": "IEEE",
-    "year": "2019",
-    "pages": "349--362",
-    "number": "1",
-    "volume": "7",
-    "journal": "IEEE Internet of Things journal",
-    "author": "Baek, Duin and Chen, Jing and Choi, Bong Jun",
-    "title": "Small profits and quick returns: An incentive mechanism design for crowdsourcing under continuous platform competition",
-    "ENTRYTYPE": "article",
-    "ID": "baek2019small"
+    "ID": "zhao2020spatially",
+    "topic": "type1",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8957069?casa_token=u-e_SD6ATCAAAAAA:0OOZXr7yQgRqkSeiXdks0t55kArxT62onVe6c7IjMN4gtodxdlW3dEJhq32ErwDRljJMnWy5nWQ"
   },
   {
     "publisher": "MDPI",
@@ -221,7 +242,9 @@
     "author": "Saraereh, Omar A and Alsaraira, Amer and Khan, Imran and Choi, Bong Jun",
     "title": "A hybrid energy harvesting design for on-body internet-of-things (IoT) networks",
     "ENTRYTYPE": "article",
-    "ID": "saraereh2020hybrid"
+    "ID": "saraereh2020hybrid",
+    "topic": "type1",
+    "url": "https://www.mdpi.com/1424-8220/20/2/407"
   },
   {
     "publisher": "Korean Society for Internet Information",
@@ -229,11 +252,13 @@
     "pages": "5805--5825",
     "number": "",
     "volume": "13",
-    "journal": "KSII Transactions on Internet \\& Information Systems",
+    "journal": "KSII Transactions on Internet & Information Systems",
     "author": "Choi, Bong Jun and others",
     "title": "Weighted Adaptive Opportunistic Scheduling Framework for Smartphone Sensor Data Collection in IoT",
     "ENTRYTYPE": "article",
-    "ID": "choi2019weighted"
+    "ID": "choi2019weighted",
+    "topic": "type1",
+    "url": "https://koreascience.kr/article/JAKO201905960008585.page"
   },
   {
     "publisher": "IEEE",
@@ -245,7 +270,9 @@
     "author": "Alemaishat, Salem and Saraereh, Omar A and Khan, Imran and Choi, Bong Jun",
     "title": "An efficient resource allocation algorithm for D2D communications based on NOMA",
     "ENTRYTYPE": "article",
-    "ID": "alemaishat2019efficient"
+    "ID": "alemaishat2019efficient",
+    "topic": "type1",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8812660"
   },
   {
     "publisher": "Wiley Online Library",
@@ -257,7 +284,23 @@
     "author": "Khan, Imran and Rodrigues, Joel JPC and Al-Muhtadi, Jalal and Khattak, Muhammad Irfan and Khan, Yousaf and Altaf, Farhan and Mirjavadi, Seyed Sajad and Choi, Bong Jun",
     "title": "A robust channel estimation scheme for 5G massive MIMO systems",
     "ENTRYTYPE": "article",
-    "ID": "khan2019robust"
+    "ID": "khan2019robust",
+    "topic": "type1",
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1155/2019/3469413"
+  },
+  {
+    "publisher": "IEEE",
+    "year": "2019",
+    "pages": "349--362",
+    "number": "1",
+    "volume": "7",
+    "journal": "IEEE Internet of Things journal",
+    "author": "Baek, Duin and Chen, Jing and Choi, Bong Jun",
+    "title": "Small profits and quick returns: An incentive mechanism design for crowdsourcing under continuous platform competition",
+    "ENTRYTYPE": "article",
+    "ID": "baek2019small",
+    "topic": "type1",
+    "url": "https://ieeexplore.ieee.org/document/8897639"
   },
   {
     "publisher": "MDPI",
@@ -269,7 +312,9 @@
     "author": "Jabeen, Tayyaba and Ali, Zain and Khan, Wali Ullah and Jameel, Furqan and Khan, Imran and Sidhu, Guftaar Ahmad Sardar and Choi, Bong Jun",
     "title": "Joint power allocation and link selection for multi-carrier buffer aided relay network",
     "ENTRYTYPE": "article",
-    "ID": "jabeen2019joint"
+    "ID": "jabeen2019joint",
+    "topic": "type1",
+    "url": "https://www.mdpi.com/2079-9292/8/6/686"
   },
   {
     "publisher": "IEEE",
@@ -281,7 +326,9 @@
     "author": "Rana, Md M and Xiang, Wei and Wang, Eric and Li, Xuehua and Choi, Bong Jun",
     "title": "Internet of Things infrastructure for wireless power transfer systems",
     "ENTRYTYPE": "article",
-    "ID": "rana2018internet"
+    "ID": "rana2018internet",
+    "topic": "type1",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8268084"
   },
   {
     "publisher": "IEEE",
@@ -293,7 +340,9 @@
     "author": "Choi, Bong Jun and Liang, Hao and Shen, Xuemin and Zhuang, Weihua",
     "title": "DCS: Distributed asynchronous clock synchronization in delay tolerant networks",
     "ENTRYTYPE": "article",
-    "ID": "choi2011dcs"
+    "ID": "choi2011dcs",
+    "topic": "type1",
+    "url": "https://ieeexplore.ieee.org/document/5887323"
   },
   {
     "publisher": "IEEE",
@@ -305,7 +354,9 @@
     "author": "Choi, Bong Jun and Shen, Xuemin",
     "title": "Adaptive asynchronous sleep scheduling protocols for delay tolerant networks",
     "ENTRYTYPE": "article",
-    "ID": "choi2010adaptive"
+    "ID": "choi2010adaptive",
+    "topic": "type1",
+    "url": "https://ieeexplore.ieee.org/document/5661773"
   },
   {
     "publisher": "IEEE",
@@ -317,7 +368,9 @@
     "author": "Choi, Bong Jun and Shen, Xuemin",
     "title": "DSA: Distributed Semi-Asynchronous Sleep Scheduling Protocol for Mobile Wireless Networks",
     "ENTRYTYPE": "inproceedings",
-    "ID": "choi2011dsa"
+    "ID": "choi2011dsa",
+    "topic": "type1",
+    "url": "https://ieeexplore.ieee.org/document/5962781"
   },
   {
     "publisher": "IEEE",
@@ -329,6 +382,8 @@
     "author": "Choi, Bong Jun and Shen, Xuemin",
     "title": "Distributed clock synchronization in delay tolerant networks",
     "ENTRYTYPE": "inproceedings",
-    "ID": "choi2010distributed"
+    "ID": "choi2010distributed",
+    "topic": "type1",
+    "url": "https://ieeexplore.ieee.org/document/5502781"
   }
 ]

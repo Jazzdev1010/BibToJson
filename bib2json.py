@@ -2,8 +2,8 @@ import json
 import bibtexparser
 
 # Define input and output file paths
-input_bib_file = 'type2_bib.bib' #'publications.bib'
-output_json_file = 'publications.json'
+input_bib_file = 'type4_bib.bib'
+output_json_file = 'type4_publications.json'
 
 # Read the BibTeX file
 with open(input_bib_file, 'r') as bib_file:
