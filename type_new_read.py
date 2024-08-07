@@ -31,14 +31,3 @@ print(publications_modified)
 
 with open("modified_pub.json", 'w') as file:
     json.dump(publications_modified,file) 
-     
-     
-     
-# for publication in publications['papers']:
-#      authors =publication['author']
-#      print(", ".join([author['name'].replace(",","") for author in authors]))
-
-     
-# output_file="student_course.json"
-# with open(output_file, 'w') as file:
-#     json.dump(,file, indent=2)

@@ -1,9 +1,9 @@
 import json
 
 # File paths
-publications_file = 'publications.json'
-sources_file = 'type2_urls.json' #'paper_source_url.json'
-output_file = 'merged_publications.json'
+publications_file = 'type4_publications.json'
+sources_file = 'type4_urls.json'
+output_file = 'type4_merged_publications.json'
 
 # Load JSON data from publications.json
 with open(publications_file, 'r') as file:
@@ -18,6 +18,7 @@ sources_dict = {entry['ID']: entry for entry in sources}
 
 # Merge publications with sources
 for publication in publications:
+    publication['topic']="type4" ## get_topic_type(filename) "type1.json" type2.json
     publication_id = publication['ID']
     if publication_id in sources_dict:
         # Add all fields from sources.json to the publication
