@@ -34,9 +34,9 @@
     <ul>
         {% for entry in entries if entry.ENTRYTYPE == 'article' %}
             <li class="publication">
-                <span class="author">{{ entry.author }}.</span>
+                <span class="author">{{ entry.author }}</span>,
                 <span class="title">
-                    <a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a>
+                    "<a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a>"
                 </span>
                 <span class="journal">{{ entry.journal }}</span>,
                 <span class="volume">{{ entry.volume }}</span>,
@@ -51,9 +51,9 @@
     <ul>
         {% for entry in entries if entry.ENTRYTYPE == 'conference' or entry.ENTRYTYPE == 'inproceedings' %}
             <li class="publication">
-                <span class="author">{{ entry.author }}.</span>
+                <span class="author">{{ entry.author }}</span>,
                 <span class="title">
-                    <a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a></span>,
+                    "<a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a>"</span>,
                 <span class="booktitle">{{ entry.booktitle }}</span>
                 {% if entry.publisher %}
                     <span class="pages">{{ entry.pages }}</span>,

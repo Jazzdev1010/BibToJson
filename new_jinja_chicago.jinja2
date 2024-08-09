@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research Publications</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+        .publication {
+            margin-bottom: 20px;
+        }
+        .title {
+            font-size: 1em;
+        }
+        .journal, .booktitle {
+            font-style: italic;
+        }
+        .title a {
+            text-decoration: none;
+            color: #000;
+        }
+        .title a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Research Publications</h1>
+    
+    <h2>Journal Articles</h2>
+    <ul>
+        {% for entry in entries if entry.ENTRYTYPE == 'article' %}
+            <li class="publication">
+                <span class="author">{{ entry.author }}</span>
+                {% if entry.title %}
+                    , "<a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a>"
+                {% endif %}
+                {% if entry.journal %}
+                    {% if entry.title %}, {% endif %}
+                    <span class="journal">{{ entry.journal }}</span>
+                {% endif %}
+                {% if entry.volume %}
+                    {% if entry.journal or entry.title %}, {% endif %}
+                    {{ entry.volume }}
+                {% endif %}
+                {% if entry.number %}
+                    {% if entry.volume %}, {% endif %}
+                    no. {{ entry.number }}
+                {% endif %}
+                {% if entry.pages %}
+                    {% if entry.number %}, {% endif %}
+                    {{ entry.pages }}
+                {% endif %}
+                {% if entry.year %}
+                    {% if entry.pages %}, {% endif %}
+                    {{ entry.year }}
+                {% endif %}
+                .
+            </li>
+        {% endfor %}
+    </ul>
+    
+    <h2>Conference Papers</h2>
+    <ul>
+        {% for entry in entries if entry.ENTRYTYPE == 'conference' or entry.ENTRYTYPE == 'inproceedings' %}
+            <li class="publication">
+                <span class="author">{{ entry.author }}</span>
+                {% if entry.title %}
+                    , "<a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a>"
+                {% endif %}
+                {% if entry.booktitle %}
+                    {% if entry.title %}, {% endif %}
+                    <span class="booktitle">{{ entry.booktitle }}</span>
+                {% endif %}
+                {% if entry.publisher %}
+                    {% if entry.booktitle %}, {% endif %}
+                    {% if entry.pages %}, {% endif %}
+                    <span class="organization">{{ entry.organization }}</span>
+                {% endif %}
+                {% if entry.year %}
+                    {% if entry.publisher %}, {% endif %}
+                    {{ entry.year }}
+                {% endif %}
+                .
+            </li>
+        {% endfor %}
+    </ul>
+    
+</body>
+</html>
