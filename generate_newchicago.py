@@ -25,8 +25,8 @@ def filter_non_empty_entries(entries):
     return [clean_entry(entry) for entry in entries if any(entry.values())]
 
 # Define input and output file paths
-input_json_file = 'cleaned_publications.json'
-output_html_file = 'Latest_publications.html'
+input_json_file = 'merged_publications.json'
+output_html_file = 'modified_publications.html'
 
 # Load JSON data
 with open(input_json_file, 'r') as json_file:

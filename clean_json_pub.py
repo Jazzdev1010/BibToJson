@@ -1,7 +1,7 @@
 import json
 
 # File paths
-publications_file = 'all_merged_publications.json'
+publications_file = 'merged_publications.json'
 output_file = 'cleaned_merged_publications.json'
 
 # Function to clean and format author names
